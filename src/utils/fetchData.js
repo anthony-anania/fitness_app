@@ -10,7 +10,7 @@ export const youtubeOptions = {
   method: 'GET',
   headers: {
     'X-RapidAPI-Host': 'youtube-search-and-download.p.rapidapi.com',
-    'X-RapidAPI-Key': 'f0021db587msh781fb1cbef39856p11c183jsn45521d5d1c85',
+    'X-RapidAPI-Key': 'f91eee32f0msh047a9b68d0a81c7p1801bbjsne0e9fa0fabdc',
   },
 };
 
